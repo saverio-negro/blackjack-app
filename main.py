@@ -121,5 +121,8 @@ def play_blackjack():
         
         verdict(user_cards, computer_cards, user_score, computer_score)
         play_blackjack()
+    else:
+        clear()
+        print("Bye bye!")
 
 play_blackjack()
