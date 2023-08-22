@@ -1,6 +1,6 @@
 # Blackjack App
 
-<img src="/blackjack-image.png" width="100%" height="100%"></img>
+<img src="/blackjack-image.png" width="80%" height="80%"></img>
 <br>
 Credit: <a href="https://crescent.edu/">Crescent School Gaming and Bartending</a>
 <hr>
