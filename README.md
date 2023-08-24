@@ -22,7 +22,7 @@ Credit: <a href="https://crescent.edu/">Crescent School Gaming and Bartending</a
 </p>
 
 <p>
-  Blackjack App is written in Python and you can launch it either from any local IDE which is able to compile Python source code, or      any other Python code editors/compilers from the web which enable you to edit and run the code.
+  Blackjack App is written in Python and you can launch it either from any local IDE which is able to compile Python source code, or      any other Python code editors/compilers from the web which enables you to edit and run the code.
 </p>
 
 <hr>
